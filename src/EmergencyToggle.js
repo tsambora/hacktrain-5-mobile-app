@@ -44,14 +44,14 @@ export default class EmergencyToggle extends Component {
           </Box>
           <Box pad={{vertical: 'large'}}>
             <div style={{justifyContent: 'center', display: 'flex', flexDirection:'row'}}>
-              <div style={{width: '24px', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', borderRadius: '56px 0 0 0', margin: '0 8px'}}/>
-              <div style={{width: '24px', height: '12px', backgroundColor: '#70a1ff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
-              <div style={{width: '24px', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
-              <div style={{width: '24px', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
-              <div style={{width: '24px', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
-              <div style={{width: '24px', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
-              <div style={{width: '24px', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
-              <div style={{width: '24px', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', borderRadius: '0 56px 0 0', margin: '0 8px'}}/>
+              <div style={{width: '12.5%', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', borderRadius: '56px 0 0 0', margin: '0 8px'}}/>
+              <div style={{width: '12.5%', height: '12px', backgroundColor: '#70a1ff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
+              <div style={{width: '12.5%', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
+              <div style={{width: '12.5%', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
+              <div style={{width: '12.5%', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
+              <div style={{width: '12.5%', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
+              <div style={{width: '12.5%', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', margin: '0 8px'}}/>
+              <div style={{width: '12.5%', height: '12px', backgroundColor: '#fff', border: '1px solid #AAAAAA', borderRadius: '0 56px 0 0', margin: '0 8px'}}/>
             </div>
           </Box>
           <Box pad={{vertical: 'large'}}>
